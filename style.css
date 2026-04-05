@@ -228,7 +228,7 @@ h1 {
     background-size: cover;
     background-position: center;
     border-radius: 12px 12px 12px 12px;
-    background-image: url(/Assets/Gallery/1.jpg);
+    background-image: url(./Assets/Gallery/1.jpg);
     transition: all 0.5s ease;
 }
 
@@ -236,7 +236,7 @@ h1 {
     background-repeat: no-repeat;
     border-radius: 12px;
     background-size: cover;
-    background-image: url(/Assets/Gallery/2.jpg);
+    background-image: url(./Assets/Gallery/2.jpg);
     grid-area: 1 / 8 / 5 / 12;
     transition: all 0.5s ease;
     background-position: center;
@@ -248,7 +248,7 @@ h1 {
     background-repeat: no-repeat;
     border-radius: 12px;
     background-size: cover;
-    background-image: url(/Assets/Gallery/3.jpg);
+    background-image: url(./Assets/Gallery/3.jpg);
     grid-area: 4 / 1 / 7 / 5;
     transition: all 0.5s ease;
     background-position: center;
@@ -260,7 +260,7 @@ h1 {
     background-repeat: no-repeat;
     border-radius: 12px;
     background-size: cover;
-    background-image: url(/Assets/Gallery/4.jpg);
+    background-image: url(./Assets/Gallery/4.jpg);
     grid-area: 5 / 5 / 10 / 10;
     transition: all 0.5s ease;
     background-position: center;
@@ -272,7 +272,7 @@ h1 {
     background-repeat: no-repeat;
     border-radius: 12px;
     background-size: cover;
-    background-image: url(/Assets/Gallery/5.jpg);
+    background-image: url(./Assets/Gallery/5.jpg);
     grid-area: 5 / 10 / 7 / 14;
     transition: all 0.5s ease;
     background-position: center;
@@ -284,7 +284,7 @@ h1 {
     background-repeat: no-repeat;
     border-radius: 12px;
     background-size: cover;
-    background-image: url(/Assets/Gallery/6.jpg);
+    background-image: url(./Assets/Gallery/6.jpg);
     grid-area: 7 / 1 / 10 / 5;
     transition: all 0.5s ease;
     background-position: center;
@@ -296,7 +296,7 @@ h1 {
     background-repeat: no-repeat;
     border-radius: 12px;
     background-size: cover;
-    background-image: url(/Assets/Gallery/7.jpg);
+    background-image: url(./Assets/Gallery/7.jpg);
     grid-area: 7 / 10 / 12 / 14;
     transition: all 0.5s ease;
     background-position: center;
@@ -308,7 +308,7 @@ h1 {
     background-repeat: no-repeat;
     border-radius: 12px;
     background-size: cover;
-    background-image: url(/Assets/Gallery/8.jpg);
+    background-image: url(./Assets/Gallery/8.jpg);
     grid-area: 10 / 3 / 14 / 7;
     transition: all 0.5s ease;
     background-position: center;
@@ -320,7 +320,7 @@ h1 {
     background-repeat: no-repeat;
     border-radius: 12px;
     background-size: cover;
-    background-image: url(/Assets/Gallery/9.jpg);
+    background-image: url(./Assets/Gallery/9.jpg);
     grid-area: 10 / 7 / 14 / 10;
     transition: all 0.5s ease;
     background-position: center;
