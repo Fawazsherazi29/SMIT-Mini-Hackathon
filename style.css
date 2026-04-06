@@ -328,6 +328,31 @@ h1 {
 
 }
 
+@media (max-width: 768px) {
+    
+    .cantainer {
+        grid-template-columns: 1fr; 
+        grid-template-rows: auto;
+        margin-left: 20px;
+        margin-right: 20px;
+        gap: 15px;
+    }
+
+    .images {
+        grid-area: auto !important; 
+        height: 200px; 
+    }
+
+    h1 {
+        font-size: 28px;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    span {
+        padding-left: 0;
+    }
+}
 
 /* Footer */
 
